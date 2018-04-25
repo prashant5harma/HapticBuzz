@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/AbhinavSingh/Documents/GitHub/android-sdk-examples/Basic/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/AbhinavSingh/.gradle/caches/transforms-1/files-1.1/design-23.0.1.aar/c67afb64e3aff8b21bd2c26f21e3e313/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "275",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "452"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "462",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "639"
+                    }
+                },
+                {
+                    "source": "/Users/AbhinavSingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/61ba074799fd32978cf9bb0f8a662846/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4,7,10,13,16,17",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "287,582,896,1199,1505,1576",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "344,649,961,1258,1571,1639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/prashantsharma/Downloads/android-sdk-examples/Basic/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/prashantsharma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/94f48423301e116e90976a43419effc0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4,7,10,13,16,17",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "287,582,896,1199,1505,1576",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "344,649,961,1258,1571,1639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                },
+                {
+                    "source": "/Users/prashantsharma/.gradle/caches/transforms-1/files-1.1/design-23.0.1.aar/1c760a2776de86e4c889d14419147102/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "275",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "452"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "462",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "639"
+                    }
+                }
+            ]
+        }
+    ]
+}
